@@ -1,0 +1,47 @@
+---
+pagetitle: "Soohun Kim | Research"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+# Published and Accepted Papers
+
+* **Arbitrage Portfolios**  
+with  [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  and
+[Andy Neuhierl](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=andreasn)
+__Review of Financial Studies__, accepted for publication  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263001)
+
+* **Self-fulfilling arbitrages necessitate crash risk**  
+with 
+[Donghyun Ahn](https://econ.snu.ac.kr/people/faculty?mode=view&profidx=14) and 
+[Kyoungwon Seo](https://sites.google.com/view/kyoungwon-seo)
+__Journal of Financial Markets__,  (2020), 51, 100547.  
+[[JFM]](https://www.sciencedirect.com/science/article/pii/S1386418120300161)
+
+* **Ex-post risk premia estimation and asset pricing tests using large cross sections: The regression-calibration approach**  
+with 
+[Georgios Skoulakis](https://sites.google.com/view/geskoulakis/home) 
+__Journal of Econometrics__,  (2018), 204, 159-188.  
+[[JOE]](https://www.sciencedirect.com/science/article/pii/S0304407618300198)
+
+
+## Working Papers
+
+* **Large Sample Estimators of Stochastic Discount Factor**  
+with 
+[Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3131274)
+
+* **Revealed Heuristics: Evidence from Investment Consultants’ Search Behavior**  
+with 
+[Sudheer Chava](https://www.scheller.gatech.edu/directory/faculty/chava/index.html)  and
+[Daniel Weagley](https://www.danielweagley.com/)  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3277424)
+
+* **Capital Allocation and the Market for Mutual Funds: Inspecting the Mechanism**  
+with
+[Jules van Binsbergen](https://sites.google.com/view/jules-van-binsbergen/)  and
+[John Kim](https://sites.google.com/view/john-kim)  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462749)

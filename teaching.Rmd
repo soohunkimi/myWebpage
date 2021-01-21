@@ -1,0 +1,25 @@
+---
+pagetitle: "Soohun Kim | Teaching"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+## KAIST, College of Business
+
+* **MGT 503** -- Business Analytics  
+  *Fall 2020*
+
+* **MFE 522** -- Financial Econometrics  
+  *Fall 2020*
+  
+* **MFE 542** -- Time Series Analytics  
+  *Fall 2020*
+  
+  
+
+## Georgia Tech, Scheller College of Business
+
+* **MGT 403** -- Derivatives  
+  *Spring 2014-2020*

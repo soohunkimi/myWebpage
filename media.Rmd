@@ -1,0 +1,17 @@
+---
+pagetitle: "Soohun Kim | Media"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+## Selected Media Mentions of Research
+
+* [Die Fed ermöglicht Überrenditen](https://www.boersen-zeitung.de/index.php?li=1&artid=2019006076), *Boersenzeitung*, 01/10/2019
+* [Auffällige Kursmuster vor dem Fed-Entscheid](https://www.fuw.ch/article/auffaellige-kursmuster-vor-dem-fed-entscheid/), *Finanz und Wirtschaft*, 11/08/2018
+* [So können Anleger mit der US-Notenbank Geld verdienen](https://www.manager-magazin.de/finanzen/boerse/federal-reserve-zinsentscheidung-anleger-koennen-damit-geld-verdienen-a-1229917.html), *Manager Magazin*, 09/04/2018
+* [Market Anticipation of FOMC Policy "Shocks"](https://www.nber.org/digest/sep18/sep18.pdf), *NBER Digest*, 09/04/2018
+* [Predictable movements in asset prices around FOMC meetings](https://voxeu.org/article/predictable-movements-asset-prices-around-fomc-meetings), *VoxEU*, 08/31/2018
+* [Facing The Fed With Dividends And Options](https://www.forbes.com/sites/johndobosz/2018/07/20/facing-the-fed-with-dividends-and-options/), *Forbes*, 07/20/2018
+* [Monetary Momentum](https://alphaarchitect.com/2017/11/16/monetary-momentum/), *Alpha Architect*, 11/16/2017
+* [Fed Pronouncements, Expectations, and Stock Prices](https://www.nber.org/digest/mar17/mar17.pdf), *NBER Digest*, 03/04/2017
