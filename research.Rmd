@@ -10,8 +10,8 @@ pagetitle: "Soohun Kim | Research"
 * **Arbitrage Portfolios**  
 with  [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  and
 [Andy Neuhierl](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=andreasn)
-__Review of Financial Studies__, accepted for publication  
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263001)
+__Review of Financial Studies__, (2021), 34, 2813–2856.  
+[[RFS]](https://academic.oup.com/rfs/article/34/6/2813/5902462)
 
 * **Self-fulfilling arbitrages necessitate crash risk**  
 with 
@@ -45,3 +45,10 @@ with
 [Jules van Binsbergen](https://sites.google.com/view/jules-van-binsbergen/)  and
 [John Kim](https://sites.google.com/view/john-kim)  
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3462749)
+
+* **Analyzing Active Managers' Commitment to ESG: Evidence from United Nations Principles for Responsible Investment**  
+with
+[Aaron Yoon](https://www.kellogg.northwestern.edu/faculty/directory/yoon_aaron.aspx)  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555984)
+
+
