@@ -7,8 +7,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    #- text: "Media"
-    #  href: media.html
+    - text: "Blog"
+      href: blog.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:soohun@kaist.ac.kr

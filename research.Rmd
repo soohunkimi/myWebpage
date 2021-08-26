@@ -7,6 +7,13 @@ pagetitle: "Soohun Kim | Research"
 
 # Published and Accepted Papers
 
+* **Characteristic-Based Returns: Alpha or Smart Beta?**  
+with  [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  and
+[Andy Neuhierl](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=andreasn)
+__Journal of Investment Management__, Forthcoming.  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880589)
+
+
 * **Arbitrage Portfolios**  
 with  [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  and
 [Andy Neuhierl](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=andreasn)
