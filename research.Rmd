@@ -7,6 +7,14 @@ pagetitle: "Soohun Kim | Research"
 
 # Published and Accepted Papers
 
+* **Revealed Heuristics: Evidence from Investment Consultants’ Search Behavior**  
+with 
+[Sudheer Chava](https://www.scheller.gatech.edu/directory/faculty/chava/index.html)  and
+[Daniel Weagley](https://www.danielweagley.com/)
+__Review of Asset Pricing Studies__, Forthcoming.  
+[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3277424)
+
+
 * **Characteristic-Based Returns: Alpha or Smart Beta?**  
 with  [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  and
 [Andy Neuhierl](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=andreasn)
@@ -41,11 +49,6 @@ with
 [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  
 [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3131274)
 
-* **Revealed Heuristics: Evidence from Investment Consultants’ Search Behavior**  
-with 
-[Sudheer Chava](https://www.scheller.gatech.edu/directory/faculty/chava/index.html)  and
-[Daniel Weagley](https://www.danielweagley.com/)  
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3277424)
 
 * **Capital Allocation and the Market for Mutual Funds: Inspecting the Mechanism**  
 with
