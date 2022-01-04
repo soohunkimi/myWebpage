@@ -8,14 +8,14 @@ pagetitle: "Soohun Kim | Teaching"
 
 ## KAIST, College of Business
 
-* **MGT 503** -- Business Analytics  
-  *Fall 2020*
+* **BIT 500** -- Business Analytics  
+  *Fall 2020-2021*
 
-* **MFE 522** -- Financial Econometrics  
-  *Fall 2020*
+* **BAF 634** -- Financial Econometrics  
+  *Fall 2020-2021*
   
-* **MFE 542** -- Time Series Analytics  
-  *Fall 2020*
+* **BAF 649** -- Time Series Analytics  
+  *Fall 2020-2021*
   
   
 

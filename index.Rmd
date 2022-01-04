@@ -6,10 +6,10 @@ pagetitle: "Soohun Kim"
 
 <img src="img/IMG_2900-2.jpg" style="width:25%; border:0px solid; margin-right: 20px" align="left">
 
-I am an assistant professor of finance at the [College of Business](https://www.business.kaist.edu/) at [KAIST](https://www.kaist.ac.kr/en/).
+I am an assistant professor of finance at the [College of Business](https://www.business.kaist.edu/) at [KAIST](https://www.kaist.ac.kr/en/). Prior to joining KAIST, I was on the faculty at the [Scheller College of Business](https://www.scheller.gatech.edu/) at [Georgia Tech.](https://www.gatech.edu)
 
 <!-- Prior to joining Wash U - Olin, I was on the faculty at the [Mendoza College of Business](https://mendoza.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I have also held visiting appointments at the [Booth School of Business](https://www.chicagobooth.edu/) at the [University of Chicago](https://www.uchicago.edu/). I obtained my PhD in finance from the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at [Northwestern University](https://www.northwestern.edu/) in 2015.   -->
 
 My current research interest are in the area of asset pricing, financial econometrics and machine learning, and tail risk in financial markets.
 
-My full CV is available [here](cv_soohunkim_20201027.pdf).
+My full CV is available [here](CV_soohunkim_20220104.pdf).
