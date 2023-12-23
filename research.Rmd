@@ -10,23 +10,23 @@ pagetitle: "Soohun Kim | Research"
 * **Analyzing Active Fund Managers' Commitment to ESG: Evidence from the United Nations Principles for Responsible Investment**  
 with 
 [Aaron Yoon](https://www.kellogg.northwestern.edu/faculty/directory/yoon_aaron.aspx) 
-__Management Science__, Forthcoming.  
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555984)
+__Management Science__, (2023), 69, 723-1322 
+[[MS]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4394?journalCode=mnsc)
 
 
 * **Revealed Heuristics: Evidence from Investment Consultants’ Search Behavior**  
 with 
 [Sudheer Chava](https://www.scheller.gatech.edu/directory/faculty/chava/index.html)  and
 [Daniel Weagley](https://www.danielweagley.com/)
-__Review of Asset Pricing Studies__, Forthcoming.  
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3277424)
+__Review of Asset Pricing Studies__, (2022), 12, 543-592 
+[[RAPS]](https://academic.oup.com/raps/article-abstract/12/2/543/6446040?redirectedFrom=fulltext)
 
 
 * **Characteristic-Based Returns: Alpha or Smart Beta?**  
 with  [Robert Korajczyk](https://www.kellogg.northwestern.edu/faculty/directory/korajczyk_robert.aspx)  and
 [Andy Neuhierl](https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=andreasn)
-__Journal of Investment Management__, Forthcoming.  
-[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3880589)
+__Journal of Investment Management__, (2022), 20, 70-89   
+[[JOIM]](https://joim.com/characteristic-based-returns-alpha-or-smart-beta/)
 
 
 * **Arbitrage Portfolios**  

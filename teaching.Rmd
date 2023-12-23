@@ -9,17 +9,17 @@ pagetitle: "Soohun Kim | Teaching"
 ## KAIST, College of Business
 
 * **BIT 500** -- Business Analytics  
-  *Fall 2020-2021*
+  *2020-2023*
 
 * **BAF 634** -- Financial Econometrics  
-  *Fall 2020-2021*
+  *2020-2023*
   
 * **BAF 649** -- Time Series Analytics  
-  *Fall 2020-2021*
+  *2020-2023*
   
   
 
 ## Georgia Tech, Scheller College of Business
 
 * **MGT 403** -- Derivatives  
-  *Spring 2014-2020*
+  *2014-2020*
